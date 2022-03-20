@@ -34,7 +34,7 @@
 }
 
 #equal {
-    background: linear-gradient(to top left, #ff6699 80%, #ff99cc 84%);
+    background: linear-gradient(to bottom, #ff0066 0%, #ff99cc 100%);
     color: white;
 }
 
